@@ -3,10 +3,10 @@
   <groupId>snw</groupId>
   <artifactId>rfm-api</artifactId>
   <versioning>
-    <release>1.4.0</release>
+    <release>1.4.1</release>
     <versions>
-      <version>1.4.0</version>
+      <version>1.4.1</version>
     </versions>
-    <lastUpdated>20220312072119</lastUpdated>
+    <lastUpdated>20220313050144</lastUpdated>
   </versioning>
 </metadata>
